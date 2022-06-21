@@ -1,0 +1,3 @@
+# About
+This is an experiment. I wanted to explore the possibilities of the API and figure out if it was possible to create some sort of bulk download using front-end technologies only. While it seems impossible to create a ZIP file using only JavaScript, I found out that Chrome allows downloading multiple files at once...
+![image](https://user-images.githubusercontent.com/87187870/174731379-a921a574-a7c0-48af-ba06-766d178d598f.png)
